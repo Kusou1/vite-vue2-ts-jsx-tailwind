@@ -1,5 +1,6 @@
 {
-  "name": "vue",
+  "name": "vite-vue2-boilerplate",
+  "author": "Kusou1",
   "version": "0.1.0",
   "private": true,
   "scripts": {
