@@ -1,0 +1,24 @@
+/**
+ * @author $user
+ * @date $datetime
+ */
+
+import { defineComponent} from 'vue'
+import styles from './index.module.scss'
+// import classnames from 'classnames'
+
+export default defineComponent({
+  name: '${dirName}',
+  setup() {
+    return {
+    }
+  },
+  render() {
+
+    return (
+      <div>
+        ${dirName}
+      </div>
+    )
+  },
+})

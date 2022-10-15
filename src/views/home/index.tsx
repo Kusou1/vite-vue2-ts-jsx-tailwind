@@ -1,5 +1,5 @@
 /* eslint-disable */
-import { defineComponent, ref, watch } from '@vue/composition-api'
+import { defineComponent } from 'vue'
 import HelloWorld from "@/components/HelloWorld";
 import styles from './index.module.scss'
 

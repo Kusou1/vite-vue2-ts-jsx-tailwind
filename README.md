@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### svg-icon
+See [Here](https://github.com/MMF-FE/svgicon)

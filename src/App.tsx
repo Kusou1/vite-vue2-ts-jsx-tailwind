@@ -1,4 +1,4 @@
-import { defineComponent } from "@vue/composition-api";
+import { defineComponent } from "vue";
 import Home from "./views/home";
 import logo from "@/assets/logo.png";
 
